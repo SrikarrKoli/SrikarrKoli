@@ -1,76 +1,51 @@
-# Hi, I'm Srikar Kolipaka 👋
+# Hi, I’m Srikar Kolipaka
 
-**Rising junior @ UT Austin** · B.B.A. MIS + CS minor 
+I’m an MIS student at UT Austin, also studying a CS minor.
 
-I **build products** — from 0→1 startup features to hackathon wins to internal tools at scale.  
-Interested in **Product Management** (big tech & startups), **entrepreneurship**, and shipping things people actually use.
+Product management and AI appeal to me because I like figuring out how new technology can solve meaningful problems. I’m drawn to startups tackling those problems across industries like microelectronics, physical AI, and deep technology.
 
-🌐 Portfolio *(coming soon)* · 💼 [LinkedIn](https://linkedin.com/in/srikar-kolipaka) · 📧 srikarrkolipaka@gmail.com
+[Personal portfolio](https://hello-internet.srikarrkolipaka.workers.dev/) · [LinkedIn](https://linkedin.com/in/srikar-kolipaka) · [Email](mailto:srikarrkolipaka@gmail.com)
 
----
+## What I’m building
 
-## Currently building
-
-| Project | Description |
-|---------|-------------|
-| [**TransferPath**](https://github.com/fsafdsfasd/transferpath) | Texas transfer planning app — Next.js + Supabase |
-| **Personal portfolio** | PM case studies, startup projects, build log |
-
----
-
-## Highlights
-
-| | |
-|---|---|
-| 🏆 | **HackTX 2025** — Best Financial Hack w/ Capital One ([EcoFin Carbon](https://github.com/fsafdsfasd/Buildathon)) |
-| 🥇 | **TPC Product Pitch** — 1st of 15 teams (Eleve student marketplace) |
-| 🏅 | **Alvarez & Marsal Case Comp** — 1st Place |
-| 🚀 | PM Intern @ **Wipp** (MIT Lab startup) · Analyst @ **Goldman Sachs** Platform Solutions |
-| 📈 | Product Lead @ **GameSense AI** — 1.2K users, +35% engagement via A/B testing |
-
----
-
-## What I do
-
-- **Product:** user research, roadmap prioritization, beta testing, KPIs, GTM
-- **Build:** Python, TypeScript, SQL, Figma prototypes, AI integrations
-- **Ship:** hackathons, startup internships, side projects, daily commits
-
----
-
-## Featured projects
-
-| Project | What it is |
-|---------|------------|
-| [EcoFin Carbon](https://github.com/fsafdsfasd/Buildathon) | Spending → carbon footprint insights · Gemini + Capital One API · **HackTX winner** |
-| [TransferPath](https://github.com/fsafdsfasd/transferpath) | Community college → university transfer planner |
-| [GooseChase](https://github.com/fsafdsfasd/GooseChase-HackHackGoose2026) | AI running coach |
-| [AggieStart](https://github.com/fsafdsfasd/AggieStart) | Product@TAMU ideathon |
-
-**Also:** Eleve (UT clothing marketplace, TPC pitch winner) · Uniquely (student authorship verification)
-
----
+- **[Personal portfolio](https://github.com/SrikarrKoli/personal-portfolio)**: an interactive pixel-art landscape with moving clouds, falling leaves, birds, and click interactions. Explore my background and projects on the **[live site](https://hello-internet.srikarrkolipaka.workers.dev/)**.
+- **[TransferPath](https://github.com/SrikarrKoli/transferpath)**: a transfer planner for Texas community college students, bringing course plans, university requirements, deadlines, and application tasks together.
 
 ## Experience
 
-- **Goldman Sachs** — Platform Solutions Analyst · Copilot AI agents, Salesforce integrations, 12+ workflow improvements
-- **Wipp (MIT Lab)** — PM Intern · 5+ feature betas, 28% more qualified leads, GTM to 25+ stakeholders
-- **GameSense AI** — Strategy & Product Lead · team of 3, 4→2 week delivery cycles
-- **TAMU AgriLife** — SWE Intern · Python predictive models, Tableau dashboards, 3-department rollout
-- **Texas Product Catalyst** — PM community · ConverseNow AI partnership, 10+ PM mentors secured
+**Goldman Sachs · Summer Analyst**  
+This past summer, I explored how AI can improve internal tools and workflows.
 
----
+**Wipp · Product Management Intern**  
+Before that, I interned at Wipp. I got a lot of ownership, worked on go-to-market strategy, and owned a feature from end to end.
 
-## Stack
+**Texas A&M AgriLife Research**  
+I created an agent-based model to study cattle growth.
 
-`Figma` · `Python` · `SQL` · `TypeScript` · `Next.js` · `Supabase` · `Tableau` · `Salesforce` · `Cursor` · `Claude` · `Gemini` · Agile
+**UT Austin · Teaching Assistant**  
+I’m also a TA for CS 303: Elements of Programming and Computing.
 
----
+## Things I’ve built with others
 
-## Off the clock
+| Project | What we built |
+| --- | --- |
+| [Spots](https://github.com/SrikarrKoli/spots-social-ar) | A Meta Ray-Ban track prototype that recognizes physical objects through a camera and lets people leave notes and replies on them. The current prototype runs in a browser. |
+| [EcoFin Carbon](https://github.com/SrikarrKoli/HackTX-EcoFin-Carbon) | A HackTX 2025 project using transaction data to estimate the carbon impact of purchases and generate sustainability suggestions. |
+| [GooseChase](https://github.com/SrikarrKoli/GooseChase-HackHackGoose2026) | A running coach built at HackHackGoose 2026 that uses Strava activity history for coaching conversations, run debriefs, and training plans. |
+| [NBA Player Advocacy](https://hello-internet.srikarrkolipaka.workers.dev/work/nba-player-advocacy) | Our JPMorgan Chase Data for Good analysis of NBA game data alongside travel, player health, and team performance indexes. |
 
-Running · exploring new cities · sci-fi · new food · pickleball · Christopher Nolan films
+Spots and EcoFin Carbon are team projects; my repositories are forks of the shared work.
 
----
+## Outside of work
 
-*Building in public — I push to active repos most days. Follow the [contribution graph](https://github.com/fsafdsfasd) or check back for new features.*
+I like going to the gym and going on walks near the hiking trails around me. I’m from Dallas, and I’m a big Dallas Cowboys and Dallas Mavericks fan.
+
+I like competing in university hackathons. I’ve taken part in HackTX in 2025 and 2026, JPMorgan Chase Data for Good, and HackHackGoose 2026.
+
+I’d love to visit Switzerland because the scenery there is insane. New Zealand is on my list too because the black sand beaches look really cool.
+
+## Tools I use
+
+Python · TypeScript · SQL · Figma · Next.js · Supabase · Tableau
+
+You can explore my projects and what I’m working on through my **[portfolio](https://hello-internet.srikarrkolipaka.workers.dev/)**.
