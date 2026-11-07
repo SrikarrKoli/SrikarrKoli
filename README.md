@@ -42,8 +42,6 @@ I like going to the gym and going on walks near the hiking trails around me. I鈥
 
 I like competing in university hackathons. I鈥檝e taken part in HackTX in 2025 and 2026, JPMorgan Chase Data for Good, and HackHackGoose 2026.
 
-I鈥檇 love to visit Switzerland because the scenery there is insane. New Zealand is on my list too because the black sand beaches look really cool.
-
 ## Tools I use
 
 Python 路 TypeScript 路 SQL 路 Figma 路 Next.js 路 Supabase 路 Tableau
