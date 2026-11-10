@@ -1,6 +1,6 @@
 # Hi, I’m Srikar Kolipaka
 
-I’m an MIS student at UT Austin, also studying a CS minor.
+MIS/CS student at UT Austin
 
 Product management and AI appeal to me because I like figuring out how new technology can solve meaningful problems. I’m drawn to startups tackling those problems across industries like microelectronics, physical AI, and deep technology.
 
@@ -35,12 +35,6 @@ I’m also a TA for CS 303: Elements of Programming and Computing.
 | [NBA Player Advocacy](https://hello-internet.srikarrkolipaka.workers.dev/work/nba-player-advocacy) | Our JPMorgan Chase Data for Good analysis of NBA game data alongside travel, player health, and team performance indexes. |
 
 Spots and EcoFin Carbon are team projects; my repositories are forks of the shared work.
-
-## Outside of work
-
-I like going to the gym and going on walks near the hiking trails around me. I’m from Dallas, and I’m a big Dallas Cowboys and Dallas Mavericks fan.
-
-I like competing in university hackathons. I’ve taken part in HackTX in 2025 and 2026, JPMorgan Chase Data for Good, and HackHackGoose 2026.
 
 ## Tools I use
 
