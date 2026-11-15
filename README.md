@@ -27,8 +27,9 @@ I’m also a TA for CS 303: Elements of Programming and Computing.
 
 ## Things I’ve built 
 
-| Projects | 
+| Project | Description |
 | --- | --- |
+| [Quantmaxxing](https://github.com/SrikarrKoli/Quantmaxxing) | A head-to-head mental math game: both players get the same questions on one clock, and whoever answers more correctly wins. Includes three hearts, ranked play, bot opponents up to "Quant Trader", and a [live site](https://quantmaxxing.web.app). |
 | [Spots](https://github.com/SrikarrKoli/spots-social-ar) | A Meta Ray-Ban track prototype that recognizes physical objects through a camera and lets people leave notes and replies on them. The current prototype runs in a browser. |
 | [EcoFin Carbon](https://github.com/SrikarrKoli/HackTX-EcoFin-Carbon) | A HackTX 2025 project using transaction data to estimate the carbon impact of purchases and generate sustainability suggestions. |
 | [GooseChase](https://github.com/SrikarrKoli/GooseChase-HackHackGoose2026) | A running coach built at HackHackGoose 2026 that uses Strava activity history for coaching conversations, run debriefs, and training plans. |
