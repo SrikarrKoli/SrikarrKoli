@@ -25,9 +25,9 @@ I created an agent-based model to study cattle growth.
 **UT Austin · Teaching Assistant**  
 I’m also a TA for CS 303: Elements of Programming and Computing.
 
-## Things I’ve built with others
+## Things I’ve built 
 
-| Project | What we built |
+| Projects | 
 | --- | --- |
 | [Spots](https://github.com/SrikarrKoli/spots-social-ar) | A Meta Ray-Ban track prototype that recognizes physical objects through a camera and lets people leave notes and replies on them. The current prototype runs in a browser. |
 | [EcoFin Carbon](https://github.com/SrikarrKoli/HackTX-EcoFin-Carbon) | A HackTX 2025 project using transaction data to estimate the carbon impact of purchases and generate sustainability suggestions. |
