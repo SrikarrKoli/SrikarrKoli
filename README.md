@@ -10,6 +10,7 @@ Product management and AI appeal to me because I like figuring out how new techn
 
 - **[Personal portfolio](https://github.com/SrikarrKoli/personal-portfolio)**: an interactive pixel-art landscape with moving clouds, falling leaves, birds, and click interactions. Explore my background and projects on the **[live site](https://hello-internet.srikarrkolipaka.workers.dev/)**.
 - **[TransferPath](https://github.com/SrikarrKoli/transferpath)**: a transfer planner for Texas community college students, bringing course plans, university requirements, deadlines, and application tasks together.
+- **[Poke.fun](https://github.com/SrikarrKoli/Poke.fun)**: a Pokémon card-battle game on Solana Devnet where you buy cards, summon them, and battle a real opponent, with guest and email sign-in so you don't need to know crypto first. Try the **[live demo](https://pokefun-sol-web.onrender.com/#battles)**.
 
 ## Experience
 
